@@ -1,4 +1,4 @@
-# Geektime Rust 语言训练营
+# Rust 项目统一框架
 
 ## 环境设置
 
@@ -9,6 +9,8 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 
 ### 安装 VSCode 插件
+
+> 可以直接搜索 hedon-rust-pack 里面打包了 Rust 开发中常用的插件。
 
 - crates: Rust 包管理
 - Even Better TOML: TOML 文件支持
