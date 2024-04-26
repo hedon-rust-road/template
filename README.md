@@ -1,5 +1,7 @@
 # Rust 项目统一框架
 
+> 本框架基于陈天老师的 https://github.com/tyr-rust-bootcamp/template，做了简单的修改。
+
 ## 环境设置
 
 ### 安装 Rust
